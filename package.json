@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@babel/helper-string-parser": "^7.18.10",
+    "@babel/helper-validator-identifier": "^7.18.6"
+  }
+}
